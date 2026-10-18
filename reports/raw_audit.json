@@ -1,0 +1,336 @@
+{
+  "creation_years": [
+    {
+      "year": "2018",
+      "rows": 251352
+    },
+    {
+      "year": "2019",
+      "rows": 382
+    }
+  ],
+  "event_years": [
+    {
+      "year": "1948",
+      "rows": 10
+    },
+    {
+      "year": "1993",
+      "rows": 9
+    },
+    {
+      "year": "2001",
+      "rows": 22
+    },
+    {
+      "year": "2008",
+      "rows": 45
+    },
+    {
+      "year": "2015",
+      "rows": 3
+    },
+    {
+      "year": "2016",
+      "rows": 6
+    },
+    {
+      "year": "2017",
+      "rows": 223
+    },
+    {
+      "year": "2018",
+      "rows": 1550468
+    },
+    {
+      "year": "2019",
+      "rows": 45135
+    },
+    {
+      "year": "2020",
+      "rows": 2
+    }
+  ],
+  "spend_classification": [
+    {
+      "spend_classification": "",
+      "rows": 3289
+    },
+    {
+      "spend_classification": "NPR",
+      "rows": 81057
+    },
+    {
+      "spend_classification": "OTHER",
+      "rows": 2671
+    },
+    {
+      "spend_classification": "PR",
+      "rows": 164717
+    }
+  ],
+  "standard_item_spend_areas": [
+    {
+      "spend_area": "Packaging",
+      "rows": 100628
+    },
+    {
+      "spend_area": "Sales",
+      "rows": 62861
+    },
+    {
+      "spend_area": "Trading & End Products",
+      "rows": 16028
+    },
+    {
+      "spend_area": "Additives",
+      "rows": 15852
+    },
+    {
+      "spend_area": "CAPEX & SOCS",
+      "rows": 5588
+    },
+    {
+      "spend_area": "Latex & Monomers",
+      "rows": 3823
+    },
+    {
+      "spend_area": "",
+      "rows": 3207
+    },
+    {
+      "spend_area": "Pigments & Colorants",
+      "rows": 2425
+    },
+    {
+      "spend_area": "Others",
+      "rows": 2213
+    },
+    {
+      "spend_area": "Solvents",
+      "rows": 2163
+    },
+    {
+      "spend_area": "Specialty Resins",
+      "rows": 1949
+    },
+    {
+      "spend_area": "Marketing",
+      "rows": 1534
+    },
+    {
+      "spend_area": "Titanium Dioxides",
+      "rows": 852
+    },
+    {
+      "spend_area": "Enterprise Services",
+      "rows": 472
+    },
+    {
+      "spend_area": "Commodity Resins",
+      "rows": 409
+    },
+    {
+      "spend_area": "Logistics",
+      "rows": 115
+    },
+    {
+      "spend_area": "Spend Area Unidentified",
+      "rows": 36
+    },
+    {
+      "spend_area": "Workforce Services",
+      "rows": 30
+    },
+    {
+      "spend_area": "Chemicals & Intermediates",
+      "rows": 1
+    }
+  ],
+  "outside_analysis_window": [
+    {
+      "activity": "Vendor creates invoice",
+      "rows": 85
+    },
+    {
+      "activity": "Vendor creates debit memo",
+      "rows": 19
+    }
+  ],
+  "activities": [
+    {
+      "activity": "Record Goods Receipt",
+      "rows": 314097
+    },
+    {
+      "activity": "Create Purchase Order Item",
+      "rows": 251734
+    },
+    {
+      "activity": "Record Invoice Receipt",
+      "rows": 228760
+    },
+    {
+      "activity": "Vendor creates invoice",
+      "rows": 219919
+    },
+    {
+      "activity": "Clear Invoice",
+      "rows": 194393
+    },
+    {
+      "activity": "Record Service Entry Sheet",
+      "rows": 164975
+    },
+    {
+      "activity": "Remove Payment Block",
+      "rows": 57136
+    },
+    {
+      "activity": "Create Purchase Requisition Item",
+      "rows": 46592
+    },
+    {
+      "activity": "Receive Order Confirmation",
+      "rows": 32065
+    },
+    {
+      "activity": "Change Quantity",
+      "rows": 21449
+    },
+    {
+      "activity": "Change Price",
+      "rows": 12423
+    },
+    {
+      "activity": "Delete Purchase Order Item",
+      "rows": 8875
+    },
+    {
+      "activity": "Change Approval for Purchase Order",
+      "rows": 7541
+    },
+    {
+      "activity": "Cancel Invoice Receipt",
+      "rows": 7096
+    },
+    {
+      "activity": "Vendor creates debit memo",
+      "rows": 6255
+    },
+    {
+      "activity": "Change Delivery Indicator",
+      "rows": 3289
+    },
+    {
+      "activity": "Cancel Goods Receipt",
+      "rows": 3096
+    },
+    {
+      "activity": "SRM: In Transfer to Execution Syst.",
+      "rows": 1765
+    },
+    {
+      "activity": "SRM: Ordered",
+      "rows": 1628
+    },
+    {
+      "activity": "SRM: Document Completed",
+      "rows": 1628
+    },
+    {
+      "activity": "SRM: Created",
+      "rows": 1628
+    },
+    {
+      "activity": "SRM: Complete",
+      "rows": 1628
+    },
+    {
+      "activity": "SRM: Awaiting Approval",
+      "rows": 1628
+    },
+    {
+      "activity": "Release Purchase Order",
+      "rows": 1610
+    },
+    {
+      "activity": "SRM: Change was Transmitted",
+      "rows": 1440
+    },
+    {
+      "activity": "Reactivate Purchase Order Item",
+      "rows": 543
+    },
+    {
+      "activity": "Block Purchase Order Item",
+      "rows": 514
+    },
+    {
+      "activity": "Cancel Subsequent Invoice",
+      "rows": 491
+    },
+    {
+      "activity": "Release Purchase Requisition",
+      "rows": 467
+    },
+    {
+      "activity": "Change Storage Location",
+      "rows": 415
+    },
+    {
+      "activity": "Update Order Confirmation",
+      "rows": 244
+    },
+    {
+      "activity": "SRM: Deleted",
+      "rows": 188
+    },
+    {
+      "activity": "Record Subsequent Invoice",
+      "rows": 167
+    },
+    {
+      "activity": "Set Payment Block",
+      "rows": 124
+    },
+    {
+      "activity": "SRM: Transfer Failed (E.Sys.)",
+      "rows": 45
+    },
+    {
+      "activity": "Change Currency",
+      "rows": 35
+    },
+    {
+      "activity": "Change Final Invoice Indicator",
+      "rows": 11
+    },
+    {
+      "activity": "SRM: Transaction Completed",
+      "rows": 8
+    },
+    {
+      "activity": "Change payment term",
+      "rows": 7
+    },
+    {
+      "activity": "SRM: Incomplete",
+      "rows": 6
+    },
+    {
+      "activity": "SRM: Held",
+      "rows": 6
+    },
+    {
+      "activity": "Change Rejection Indicator",
+      "rows": 2
+    }
+  ],
+  "identical_event_content": [
+    {
+      "duplicate_groups": 33073,
+      "additional_rows": 132748
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+item_type,item_category,cases
+Standard,"3-way match, invoice before GR",211842
+Consignment,Consignment,14498
+Standard,"3-way match, invoice after GR",8344
+Service,"3-way match, invoice after GR",5838
+Third-party,"3-way match, invoice before GR",5106
+Subcontracting,"3-way match, invoice before GR",4062
+Limit,2-way match,1044
+Subcontracting,"3-way match, invoice after GR",616
+Third-party,"3-way match, invoice after GR",384

@@ -1,0 +1,3 @@
+scenario,eligible_cases,receipt_share_90d,median_days
+All eligible,100385,0.94706380435324,14.15902777807787
+Exclude deletion or receipt cancellation,95571,0.9869102552029382,14.154861111193895

@@ -1,0 +1,50 @@
+{
+  "raw_cases": 251734,
+  "raw_events": 1595923,
+  "case_attribute_mapping": {
+    "concept:name": "case_id",
+    "Purchasing Document": "po_id",
+    "Item": "item_id",
+    "Company": "company_id",
+    "Vendor": "vendor_id",
+    "Name": "vendor_name",
+    "Source": "source_system",
+    "Item Type": "item_type",
+    "Item Category": "item_category",
+    "Goods Receipt": "goods_receipt_required",
+    "GR-Based Inv. Verif.": "gr_based_iv",
+    "Spend classification text": "spend_classification",
+    "Spend area text": "spend_area",
+    "Sub spend area text": "sub_spend_area",
+    "Document Type": "document_type",
+    "Purch. Doc. Category name": "document_category"
+  },
+  "case_attributes": [
+    "Company",
+    "Document Type",
+    "GR-Based Inv. Verif.",
+    "Goods Receipt",
+    "Item",
+    "Item Category",
+    "Item Type",
+    "Name",
+    "Purch. Doc. Category name",
+    "Purchasing Document",
+    "Source",
+    "Spend area text",
+    "Spend classification text",
+    "Sub spend area text",
+    "Vendor",
+    "concept:name"
+  ],
+  "event_attributes": [
+    "Cumulative net worth (EUR)",
+    "User",
+    "concept:name",
+    "org:resource",
+    "time:timestamp"
+  ],
+  "timestamp_min": "1948-01-26T22:59:00.000Z",
+  "timestamp_max": "2020-04-09T21:59:00.000Z",
+  "invalid_timestamps": 0
+}

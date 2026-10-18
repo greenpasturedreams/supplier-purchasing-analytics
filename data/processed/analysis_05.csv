@@ -1,0 +1,5 @@
+scope,group_key,metric,observations,mean_days,median_days,p10_days,p90_days
+stage,First invoice record to first clearing,elapsed_days,38600,44.41749400907528,44.97673611110076,20.427083333488554,70.05486111110076
+stage,PO creation to first receipt,elapsed_days,95071,16.831216465123067,14.15902777807787,4.177777777891606,33.0124999997206
+stage,First receipt to first invoice record,elapsed_days,82103,13.04044075057589,7.033333333209157,0.9611111111007631,35.00902777770534
+stage,PO creation to first confirmation,elapsed_days,21859,0.48267955355458425,0.05416666669771075,0.0,0.6319444440305233

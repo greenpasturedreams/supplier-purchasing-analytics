@@ -1,0 +1,2 @@
+earliest_event,as_of_utc,cohort_start,cohort_end_exclusive,followup_days
+2017-01-01T00:00:00.000Z,2019-01-31T23:59:59.999Z,2018-01-01T00:00:00.000Z,2018-10-01T00:00:00.000Z,90

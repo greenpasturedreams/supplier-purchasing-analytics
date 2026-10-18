@@ -1,0 +1,3 @@
+rejection_reason,activity,events,first_source_time,last_source_time
+outside_analysis_window,Vendor creates invoice,85,1948-01-26T22:59:00.000Z,2020-04-09T21:59:00.000Z
+outside_analysis_window,Vendor creates debit memo,19,1948-01-26T22:59:00.000Z,2019-04-30T21:59:00.000Z
